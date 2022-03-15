@@ -3,6 +3,8 @@ working with cURL following tutorial
 
 cURL stands for Client URL
 
+Browser = Client
+
 /* code in cli */
 curl https://www.ecosia.org
 
